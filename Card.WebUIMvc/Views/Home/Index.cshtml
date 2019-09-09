@@ -1,0 +1,35 @@
+﻿@model List<Card.Entities.Person>
+
+<div class="row">
+    <div class="col-md-12">
+        <a class="btn btn-warning" href="/home/add">Yeni kartvizit ekle</a>
+    </div>
+</div>
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th scope="col">Ad</th>
+            <th scope="col">Soyad</th>
+            <th scope="col">Telefon</th>
+            <th scope="col">Email</th>
+            <th scope="col">Şirket</th>
+            <th scope="col">İşlem</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model)
+        {
+            <tr>
+                <th>@person.Name</th>
+                <td>@person.Surname</td>
+                <td>@person.Phone</td>
+                <td>@person.Email</td>
+                <td>@person.Company</td>
+                <td>
+                    <a class="btn btn-sm btn-success text-white" href="/home/update/@person.Id">Güncelle</a>
+                    <a class="btn btn-sm btn-danger text-white" href="/home/delete/@person.Id">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

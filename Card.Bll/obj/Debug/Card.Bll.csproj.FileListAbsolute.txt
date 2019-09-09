@@ -1,0 +1,15 @@
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\bin\Debug\Card.Bll.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\bin\Debug\Card.Bll.pdb
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\bin\Debug\Card.Dal.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\bin\Debug\Card.Entities.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\bin\Debug\EntityFramework.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\bin\Debug\Card.Dal.pdb
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\bin\Debug\Card.Dal.dll.config
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\bin\Debug\Card.Entities.pdb
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\bin\Debug\Card.Entities.dll.config
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\bin\Debug\EntityFramework.xml
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\obj\Debug\Card.Bll.csprojAssemblyReference.cache
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\obj\Debug\Card.Bll.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\obj\Debug\Card.Bll.csproj.CopyComplete
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\obj\Debug\Card.Bll.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Bll\obj\Debug\Card.Bll.pdb

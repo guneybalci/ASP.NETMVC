@@ -1,0 +1,12 @@
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\bin\Debug\Card.Entities.dll.config
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\bin\Debug\Card.Entities.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\bin\Debug\Card.Entities.pdb
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\bin\Debug\EntityFramework.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\bin\Debug\EntityFramework.xml
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\obj\Debug\Card.Entities.csprojAssemblyReference.cache
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\obj\Debug\Card.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\obj\Debug\Card.Entities.csproj.CopyComplete
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\obj\Debug\Card.Entities.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Entities\obj\Debug\Card.Entities.pdb

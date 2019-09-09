@@ -1,0 +1,15 @@
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\bin\Debug\Card.Dal.dll.config
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\bin\Debug\Card.Dal.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\bin\Debug\Card.Dal.pdb
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\bin\Debug\Card.Entities.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\bin\Debug\EntityFramework.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\bin\Debug\Card.Entities.pdb
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\bin\Debug\Card.Entities.dll.config
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\bin\Debug\EntityFramework.xml
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\obj\Debug\Card.Dal.csprojAssemblyReference.cache
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\obj\Debug\Card.Dal.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\obj\Debug\Card.Dal.csproj.CopyComplete
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\obj\Debug\Card.Dal.dll
+C:\Users\ABDULLAH\Desktop\Güney\Card\Card\Card.Dal\obj\Debug\Card.Dal.pdb
